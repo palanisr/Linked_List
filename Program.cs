@@ -17,6 +17,7 @@ namespace Linked_List
         }
     }
 
+    #region Methods
     public class Singly_Linked_List
     {
         private Node _first;
@@ -94,6 +95,7 @@ namespace Linked_List
             head._next = null;
         }
     }
+    #endregion
 
     class MainClass
     {
@@ -116,6 +118,8 @@ namespace Linked_List
             myList.printLList();
             myList.reverseListR();
             myList.printLList();
+            Console.ReadKey();
+
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\PC_User\Documents\C_Sharp_Projects\bin\Debug\Linked_List.exe
+C:\Users\PC_User\Documents\C_Sharp_Projects\bin\Debug\Linked_List.pdb
+C:\Users\PC_User\Documents\C_Sharp_Projects\obj\x86\Debug\Linked_List.csprojResolveAssemblyReference.cache
+C:\Users\PC_User\Documents\C_Sharp_Projects\obj\x86\Debug\Linked_List.exe
+C:\Users\PC_User\Documents\C_Sharp_Projects\obj\x86\Debug\Linked_List.pdb
